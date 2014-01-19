@@ -1,1 +1,1 @@
-["/*0fa71522bc2d783162c9748defd03737619d5293",42,573257,"C",573300,1772]
+["/*6144bb0787d575e4ee3fa285fdd6379828c02811",42,552522,"setAppleMobileWebAppTitle:function(b){var a=document.querySelector('meta[name=\"apple-mobile-web-app-title\"]');if(b){a.setAttribute(\"content\",b);if(document){document.title=b}",552561,11925,"util.setAppleMobileWebAppTitle(c.data.name",564484,8815,"C",573300,1772]
